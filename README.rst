@@ -15,7 +15,7 @@ testsuite
         :alt: Build Status
 
 .. image:: https://coveralls.io/repos/testsuite/testsuite/badge.png?branch=master
-    :target: https://coveralls.io/r/{ cookiecutter.github_username }}/testsuite?branch=master
+    :target: https://coveralls.io/r/testsuite/testsuite?branch=master
     :alt: Coverage Status
 
 .. image:: https://www.versioneye.com/python/testsuite/badge.png
