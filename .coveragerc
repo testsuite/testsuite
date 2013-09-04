@@ -1,0 +1,8 @@
+[run]
+branch = True
+source = testsuite
+include = testsuite/*
+omit = testsuite/*/tests/*
+       testsuite/tests/*
+       test_*.*
+       __init__.py
